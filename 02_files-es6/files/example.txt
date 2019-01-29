@@ -1,0 +1,6 @@
+Node.js was created by Ryan Dahl starting in 2009. Its development and maintenance is sponsored by Joyent.
+Dahl was inspired to create Node.js after seeing a file upload progress bar on Flickr.
+The browser did not know how much of the file had been uploaded and had to query the web server.
+Dahl wanted an easier way.[5] Ruby's Mongrel web server was another source of inspiration for Dahl.
+Originally Dahl had several failed projects in C, Lua, and Haskell, but when Google's V8 engine was released, Dahl began to examine JavaScript.
+Even though his original idea was non-blocking he "backed out of that (a bit) in the module system and a few other areas" as it made loading external libraries troublesome.
